@@ -1,1 +1,187 @@
 Пожалуйста, внесите код статьи
+<!--верхн.баннер-->
+<div class="article-page">
+<div class="container"></div>
+</div>
+<!--конец верхн.баннер-->
+<div class="article-page">
+<div class="article-section__imgcontent-wrapper" style="align-content: center; background-color: ffffff;">
+<div class="container">
+<div class="article-section__imgcontent mobileReverse" style="display: flex; background-color: ffffff; background-image: url('https://static.insales-cdn.com/files/1/7997/12435261/original/6_7e9b4d9bcd631cd36d04d74e1aa2786a.png'); background-repeat: no-repeat; background-position-y: top; background-position-x: center;"><!--левый блок с фото-->
+<div style="width: 100%; flex-basis: 35%; align-items: flex-start; margin: 10px;"><video autoplay="autoplay" controls="controls" width="320" height="400">
+<source src="https://static.insales-
+
+cdn.com/files/1/5469/19739997/original/272818442_1074885286690999_7652412188142019252_n.mp4" type="video/mp4" /></video><br />
+<p>Надежный материал, эстетика, капучино одним нажатием кнопки. И все это в более современном дизайне.</p>
+<p><br />Концепция управления работает с помощью всего одной кнопки, а меню интуитивно ведет вас по миру кофе.</p>
+</div>
+<!--центральный блок-->
+<div style="flex-basis: 30%;">
+<div style="margin: 10px;">
+<div style="margin: 10px; color: #ccc7ba; align-items: flex-start; font-size: 1.5em;">Прежнее превосходное качество и функциональность в новом восхитительном облике!</div>
+<div style="margin: 10px; color: #ccc7ba; align-items: flex-start; font-size: 1.5em;"></div>
+<p>Четыре новые модели 7-й серии - вот где высококачественный материал встречается с эстетикой.</p>
+<p>Стильный современный дизайн кофемашины с различными цветовыми решениями и подсветкой отлично впишется и украсит любой интерьер.</p>
+<p>Модели доступны в следующих расцветаках: белый/хром; черный матовый/хром; титан/хром; нержавеющая сталь/хром.</p>
+</div>
+</div>
+<!--правый блок с фото-->
+<div style="flex-basis: 35%; align-items: flex-start; margin: 10px;"><img class="pull-right" style="max-width: 100%; height: auto; margin-bottom: 10px; margin-top: 10px;" src="https://static.insales-
+
+cdn.com/files/1/6070/19699638/original/759_1_8088e7b36e24b7cbbe0d30fa96d8497b.gif" width="500" height="334" />
+<p>Новые модели серии 7 подходят для всех любителей капучино и напитков на основе молока.</p>
+<p>Идеальные полностью автоматические кофемашины для уникальных кофейных моментов!</p>
+</div>
+</div>
+<div style="width: 100%; margin: 10px;">
+<p>При создании моделей данной серии, особенное внимание уделялось технологическим решениям, которые обеспечили непревзойденный вкус и аромат приготавливаемых напитков, недостижимый для большинства аналогичных кофемашин.</p>
+<p>&nbsp;</p>
+<img style="float: left; margin: 5px 15px 5px 15px;" src="https://static.insales-
+
+cdn.com/files/1/7980/12435244/original/52595886_2184169714972400_5878690946861760512_o_8ffc39a9cc9a
+
+a5efcd63fa6a1345fe69.jpg" width="450" height="320" />
+<p>Виды напитков<span>:&nbsp;</span>Американо<span>,&nbsp;</span>Двойной эспрессо<span>,&nbsp;</span>Какао<span>,&nbsp;</span>Капучино<span>,&nbsp;</span>Латте<span>,&nbsp; </span>Латте макиато<span>,&nbsp;</span>Моккачино<span>,&nbsp;</span>Молочная пена<span>,&nbsp;</span>Ристретто<span>,&nbsp;</span>Флэт Уайт<span>,&nbsp;</span>Эспрессо<span>,&nbsp;</span>Эспрессо лунго<span>,&nbsp;</span>Эспрессо макиато.&nbsp;</p>
+<p>Ваши любимые кофейные молочные напитки - капучино, латте макиато, готовятся нажатием одной кнопки, а новая функция <strong>Cappuccino-Connaisseur</strong> позволяет задать любую очередность подачи молока и кофе для удовлетворения самых разнообразных вкусовых предпочтений.</p>
+<p>Кроме того, модели новой серии оснащены системой <strong>OneTouch Spumatore plus</strong>, обеспечивающей еще более пористую и кремообразную молочную пену, чем их предшественники.</p>
+<p>Система сбалансированного аромата <strong>Aroma Balance System</strong> с тремя ароматическими профилями, позволяет достичь максимального аромата, точно сбалансированной экстракции и раскрыть вкус любого кофейного зерна.</p>
+<p>Дизайн кофемашины элегантный, выдержан в классическом стиле с учетом современных тенденций. Такая кофемашина продемонстрирует изысканный вкус обладателя и украсит любое помещение.&nbsp;</p>
+<p>Приготовление напитка<span>: к</span>онтроль крепости кофе<span>, н</span>астройка температуры напитка<span>, п</span>редварительное смачивание кофе<span>, р</span>егулировка порции воды<span>, р</span>егулировка степени помола.</p>
+<p>В моделях этой серии вы найдете весь базовый спектр возможностей для приготовления вкусного и ароматного кофе.&nbsp;</p>
+</div>
+<div><!--БЛОК с функциями-->
+<div class="article-section__imgcontent mobileReverse" style="display: flex; width: 100%; justify-content: center; align-items: flex-start; background-image: url('https://static.insales-cdn.com/files/1/1798/12420870/original/10_692d6088e81700a95dd487579bd05e76.png'); background-repeat: no-repeat; background-position-y: bottom; background-position-x: left;">
+<div style="display: block; width: 100%; align-items: flex-start;"><!--1 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Цветной TFT-дисплей</strong> <br />&nbsp;- для простой, интуитивно понятной и быстрой работы. Вы без труда выберите объем, крепость или вариант напитка.&nbsp;</p>
+<img style="max-width: 50%; height: auto; align-items: baseline; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7753/19742281/original/img-2022-03-24-23-13-29.png" width="150" height="153" /></div>
+<!--2 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>"Barista in a Box"</strong><br />- уникальная система регуляции различных вкусовых профилей под разные типы зёрен. Вы можете выбрать: &laquo;dynamic&raquo;, &laquo;constant&raquo; или &laquo;Intense&raquo; профили. <br /><a rel="noopener" href="https://static.insales-
+
+cdn.com/files/1/756/12190452/original/image_placeholder_abd809bcdf8353f84ebe5a111d69d2b9.png" target="_blank"> <img style="max-width: 50%; height: auto; float: left; margin: 10px;" src="https://static.insales-
+
+cdn.com/files/1/7956/12435220/original/10_79039dae72f70dd0478853cdc32a4b9a.png" width="600" height="402" /></a> Они отражают различные способы экстракции кофе в зависимости от количества воды и длительности заваривания. Пробуйте, экспериментируйте и создавайте лучший кофе у себя дома.</p>
+<img style="max-width: 50%; height: auto; margin: 10px auto 10px auto;" src="https://static.insales-
+
+cdn.com/files/1/7958/12435222/original/8_c3763a88b79aabd9a1677043bc12a751.jpg" width="150" height="101" /></div>
+<!--3 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Тихая кофемолка</strong> <br />&nbsp;- тихая кофемолка с коническими жерновами из закаленной стали. Пусть кофейное удовольствие сопровождается тишиной.</p>
+<br /><img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/8026/19742554/original/photo_2022-03-24_22-28-3.jpg" width="150" height="101" /></div>
+<!--4 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>OneTouch SPUMATORE DUO</strong><br />- приготовьте себе одним нажатием два кофейных напитка одновременно. Прекрасным дополнением к вкусу будет кремовая кофейная пенка правильной текстуры.</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7960/12435224/original/img-2020-05-28-16-32-
+
+23_ab617300cd9ea394379b5fd644dee1ae.png" width="150" height="101" /></div>
+<!--8 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Режим "Мой кофе"</strong><br />- теперь есть прекрасная возможность сохранить в памяти кофемашины рецепт вашего любимого напитка. Программируйте для себя и своих близких до 5 индивидуальных рецептов и наслаждайтесь ими без промедления!&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7961/12435225/original/img-2020-06-18-12-38-
+
+01_b34874adc99f74fc5e12a50e8727c361.png" width="150" height="101" /></div>
+<!--5 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Настройки в реальном времени</strong><br />- при необходимости, вы можете поменять настройки прямо в процессе приготовления напитка.&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/889/19751801/original/img-2022-03-25-14-10-32.png" width="150" height="101" /></div>
+<!--6 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Три степени помола</strong><br />- выберите свою степень помола, чтобы оценить все грани вкуса кофейного зерна&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7966/12435230/original/cafe-1-
+
+1024x640_ae32f077972af328029b2649b90fbafe.jpg" width="150" height="101" /></div>
+<!--7 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Автоматический капучинатор</strong><br />- приготовьте себе великолепный молочный напиток с помощью автоматического капучинатора от NIVONA. Классический Капучино, Макиато или Латте - вас ожидает поистине шедевр кофейного искусства!&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/986/19751898/original/img-2022-03-25-14-09-52.png" width="150" height="101" /></div>
+<!--8 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Приложение &laquo;Nivona App&raquo;</strong><br />Управление со смартфона, через мобильное приложение &laquo;Nivona App&raquo;, позволит готовить, просматривать и сохранять все настройки и рецепты на экране смартфона, не вставая с дивана, а функция статистики и мониторинга сообщит о необходимости технического обслуживания кофемашины.&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-
+
+cdn.com/files/1/2011/19752923/original/7_acdd4e7797c0bbb32fb741c441ffc29b.jpg" width="150" height="101" /></div>
+<!--10 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Режимы автоматической очистки</strong><br />- для ухода за кофемашиной заданы несколько программ для автоматической очистки - это промывка и очистка капучинатора, системы в целом и очистка от известковых отложений. Программы интуитивно понятны и ведут пользователя от начала до конца.&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7971/12435235/original/img-2020-06-18-12-39-
+
+59_59863c4bd129289655ab1063ea63f52a.png" width="150" height="101" /></div>
+<!--9 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Съемный варочный блок</strong><br />- легко извлекается для последующего промывания в проточной воде.&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7972/12435236/original/NICR-
+
+646__15__1000x1000_2f8dda14e13a369143e92c6729ec14bf.jpg" width="150" height="101" /></div>
+<!--10 блок-->
+<div style="display: flex; margin: 10px; align-items: center;">
+<p><strong>Поддон для кофейного жмыха</strong><br />- вытаскивается быстро и без всяких усилий. Стильный, надежный и удобный в использовании.&nbsp;</p>
+<img style="max-width: 50%; height: auto; display: flex; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7974/12435238/original/img-2020-06-18-11-53-
+
+44_aa7330d36d54ae9ecc34e2ea28bf7259.png" width="150" height="101" /></div>
+</div>
+<!--ПРАВЫЕ ФОТО-->
+<div class="article-section__imgcontent mobileReverse" style="display: block; width: 100%;">
+<div><img style="max-width: 100%; height: auto; display: block; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/7723/19742251/original/photo_2022-03-24_22-10-25.jpg" width="500" height="334" /></div>
+<div><img style="max-width: 100%; height: auto; display: block; margin: 10px auto 10px auto;" src="https://static.insales-
+
+cdn.com/files/1/7978/12435242/original/28235654_1702561493133227_2684339642334335543_o_75be27545b11
+
+6a5a5b2d039e515d0317.jpg" width="500" height="333" /></div>
+<div><img style="max-width: 100%; height: auto; display: block; margin: 10px auto 10px auto;" src="https://static.insales-
+
+cdn.com/files/1/954/19751866/original/1_dfa9486326e62a48c66fb2e5a1127207.jpg" width="500" height="333" /></div>
+<div><img style="max-width: 100%; height: auto; display: block; margin: 10px auto 10px auto;" src=" 
+
+https://static.insales-cdn.com/files/1/4970/19739498/original/photo_2022-03-24_17-36-09.jpg" width="500" height="333" /></div>
+<div><img style="max-width: 100%; height: auto; display: block; margin: 10px auto 10px auto;" src="https://static.insales-cdn.com/files/1/2445/19753357/original/8_bd1a575622b20c5db1efea6b84ba90af.jpg" width="500" height="333" /></div>
+</div>
+</div>
+<!--Низ предпоследний-->
+<div class="article-section__imgcontent mobileReverse" style="display: flex; margin: 10px; justify-content: center;">
+<div class="article-section__imgcontent__image__img mobileReverse" style="display: block; margin: 10px;">
+<div><img class="image" style="max-width: 100%; height: auto;" src="https://static.insales-
+
+cdn.com/files/1/1333/19752245/original/21_c31953dcce8fb4253feb6fe16de9b841.jpg" alt="1 " width="500" height="250" /></div>
+<div class="article-section__imgcontent__image__content">
+<p>Кофемашина Nivona CafeRomatica NICR 796 <span>&nbsp;</span></p>
+</div>
+<!--кнопка-->
+<div class="article-section__imgcontent__image__content" style="margin-top: 70px;">
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;"><a class="button is-primary" style="background: #e4002e;" href="/product/kofemashina-nivona-
+
+caferomatica-nicr-821">Купить </a></p>
+</div>
+</div>
+<div class="article-section__imgcontent__image__img" style="display: block; margin: 10px;">
+<div style="bottom: 0px;"><a href="https://nivona.ru/product/kofemashina-nivona-caferomatica-nicr-
+
+795"><img class="image" style="max-width: 100%; height: auto;" src="https://static.insales-
+
+cdn.com/files/1/1369/19752281/original/795.jpg" alt="1 " width="500" height="250" /></a></div>
+<div class="article-section__imgcontent__image__content">
+<p>Кофемашина Nivona CafeRomatica NICR 795</p>
+</div>
+<div class="article-section__imgcontent__image__content" style="margin-top: 70px;">
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;">&nbsp;</p>
+<p style="margin: auto;"><a class="button is-primary" style="background: #e4002e;" href="/product/kofemashina-nivona-
+
+caferomatica-nicr-795">Купить</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
